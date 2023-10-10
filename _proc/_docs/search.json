@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()"
+  },
+  {
+    "objectID": "01_Test/01_load_smiles.html",
+    "href": "01_Test/01_load_smiles.html",
+    "title": "nbdev_sandbox",
+    "section": "",
+    "text": "import pandas as pd\nfrom rdkit.Chem import PandasTools\n\n\n\ndf = pd.read_csv('data/test.csv')\nPandasTools.AddMoleculeColumnToFrame(df, 'smiles')\ndf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nid\nsmiles\nROMol\n\n\n\n\n0\nvai_01\nCCC\n\n\n\n\n\n1\nvai_02\nC1CCCCC1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_sandbox",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_sandbox",
+    "section": "Install",
+    "text": "Install\npip install nbdev_sandbox"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_sandbox",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]

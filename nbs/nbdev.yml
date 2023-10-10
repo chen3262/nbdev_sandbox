@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_sandbox"
+  site-url: "https://chen3262.github.io/nbdev_sandbox"
+  description: "This is to test nbdev as a way to maintain tutorials"
+  repo-branch: main
+  repo-url: "https://github.com/chen3262/nbdev_sandbox"

@@ -1,0 +1,11 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - section: Home
+        contents:
+          - 00_Home/01_test.ipynb
+      - section: Test
+        contents:
+          - 01_Test/01_load_smiles.ipynb
